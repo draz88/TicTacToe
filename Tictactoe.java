@@ -10,7 +10,6 @@ import java.util.*;
  * @author johanwejdenstolpe
  */
 public class Tictactoe {
-
     
     /**
      * @param args the command line arguments
