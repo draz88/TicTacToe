@@ -15,7 +15,6 @@ public class AiSmart extends Player{
     public AiSmart(String inName){
         super(inName);
     }
-    
     public String takeTurn(Board inBoard){
         Scanner scan = new Scanner(System.in);
         String choice = "";
